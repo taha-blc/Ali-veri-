@@ -34,6 +34,7 @@
     justify-content: center;
     gap: 3px;
     cursor: pointer;
+    
 }
 
 .nav-menu hr{
@@ -41,7 +42,7 @@
     width: 80%;
     height: 3px;
     border-radius: 10px;
-    background: #ff4141;
+    background: #FF8C00 ;
 }
 
 .nav-login-cart{
